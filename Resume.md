@@ -1,5 +1,5 @@
-####**Olga Khatko**
-*  **
+#### **Olga Khatko**
+
 
 Date of birth: June 20, 1989
 
@@ -12,9 +12,9 @@ Redmond, WA 98052
 Cell: 206-432-5217
 *  **
 
-#####**_Experience:_**
+#### **_Experience:_**
 
-**_Office manager** @ [Paragon Software Group](https://www.paragon-software.com/)_   ![paragon-software_brand_logo](https://cloud.githubusercontent.com/assets/21184960/18255882/219affe4-7363-11e6-8647-df6bad45257f.jpg)
+_**Office manager** @ [Paragon Software Group](https://www.paragon-software.com/)_   ![paragon-software_brand_logo](https://cloud.githubusercontent.com/assets/21184960/18255882/219affe4-7363-11e6-8647-df6bad45257f.jpg)
 
 February 2008 - September 2014
 
@@ -29,6 +29,7 @@ February 2008 - September 2014
 _Projects:_
 
 *  **_New test devices database on RoR_**
+
 1.  Prepared a business requirement document for a new test devices database
 2.  Worked with engineer on implementation details and QA 
 
@@ -39,22 +40,15 @@ September 2006 - February 2008
 *  Professors schedule preparation
 *  Made students annual learning plan according to the government standards
 *  Tourism department support:
-*  
-*  
-Documentation
-*  
-* 
-Incoming calls routing
-*  
-*  
-Professors conference support
-*  
-*  
-Students issues resolving
+*  Documentation
+*  Incoming calls routing
+*  Professors conference support
+*  Students issues resolving
 
 _Projects:_
 
 *  **_International tourism exhibition_**
+
 1. Entertainment program
 2. Expenses calculation
 3. Invitation of the international ambassadors
@@ -64,16 +58,16 @@ _Projects:_
 
 
 
-#####**_Education:_**
+#### **_Education:_**
 [_Moscow State University of Culture_](http://mgik.org/en/353-msic-en/homepage-en)
 
 September 2006 - June 2012
 
 Masters degree in tourism management (diploma with honour)
 
-#####**_Hobbies:_**
-*  Bouldering at [**_SPB_**](http://seattleboulderingproject.com/)
-*  [**_Community garden association_**](http://marymoorgarden.org/) at MaryMoor park, Redmond WA
+#### **_Hobbies:_**
+*  Bouldering at [_SPB_](http://seattleboulderingproject.com/)
+*  [_Community garden association_](http://marymoorgarden.org/) at MaryMoor park, Redmond WA
 *  Swimming
 *  Hiking
 
