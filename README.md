@@ -1,6 +1,14 @@
 ### ADA
 
-need logos for my resume
+**_Hello everyone!_**
+
+This repository contains my resume.
+
+_**It was a challenging and exiting task for me.
+Looking forward to learn more with the ADA team!**_
+
+By the way, images below I used for my resume.
+* ** 
 
 ![paragon-software_brand_logo](https://cloud.githubusercontent.com/assets/21184960/18255882/219affe4-7363-11e6-8647-df6bad45257f.jpg)
 
